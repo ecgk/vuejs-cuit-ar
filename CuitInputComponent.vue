@@ -5,7 +5,6 @@
       :value="value"
       @input="update()"
       :class="{'is-invalid':!isValid}"
-      v-mask="'##-########-##'"
       placeholder="00-00000000-0"
       maxlength="13"
      />
