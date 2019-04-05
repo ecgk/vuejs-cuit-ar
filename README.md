@@ -3,6 +3,6 @@ Componente CUIT Argentino
 
 ## Uso:
 ```
-<cuit-input v-model="cuit" class="form-control"></cuit-input></code>
+<cuit-input v-model="cuit" class="form-control"></cuit-input>
 ```
 {{ cuit }}
